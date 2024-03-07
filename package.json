@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/diogoscastro/testeUnitario/issues"
   },
-  "homepage": "https://github.com/diogoscastro/testeUnitario#readme"
+  "homepage": "https://github.com/diogoscastro/testeUnitario#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
