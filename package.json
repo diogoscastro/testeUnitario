@@ -1,5 +1,22 @@
 {
-    "scripts": {
-      "test": "jest"
-    }
-  }
+  "name": "teste-unitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soma.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoscastro/testeUnitario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoscastro/testeUnitario/issues"
+  },
+  "homepage": "https://github.com/diogoscastro/testeUnitario#readme"
+}
