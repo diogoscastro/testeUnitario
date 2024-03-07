@@ -1,5 +1,5 @@
 // Importa a função soma
-const soma = require('./soma');
+const soma = require('../src/soma');
 
 // Descreve a função a ser testada
 describe('Função Soma', () => {
